@@ -7,7 +7,7 @@
 <table border="0" style="border: none; width: 100%;">
 <tr>
 <td align="center" valign="top" width="35%">
-<img src="./profile.png" height="260" alt="Profile Image" />
+<img src="./profile.png" height="340" alt="Profile Image" />
 </td>
 <td valign="top" width="65%" style="padding-left: 15px;">
 <h2>💻 Skills & Technologies</h2>
