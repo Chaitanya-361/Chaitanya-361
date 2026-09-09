@@ -11,7 +11,7 @@
 <table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
 
-<!-- ==================== PROFILE IMAGE ==================== -->
+<!-- PROFILE IMAGE -->
 <td width="35%" align="center" valign="top">
 
 <img
@@ -23,7 +23,7 @@
 </td>
 
 
-<!-- ==================== SKILLS ==================== -->
+<!-- SKILLS -->
 <td width="65%" valign="top" style="padding: 15px;">
 
 <h2>💻 Skills & Technologies</h2>
@@ -32,105 +32,111 @@
 
 <h3>Languages</h3>
 
-<p>
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    alt="C++"
-  />
-  &nbsp;&nbsp;
+<div style="white-space: nowrap;">
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    alt="Python"
-  />
-  &nbsp;&nbsp;
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+  alt="C++"
+/>
+&nbsp;&nbsp;
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    alt="Java"
-  />
-  &nbsp;&nbsp;
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  alt="Python"
+/>
+&nbsp;&nbsp;
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    alt="JavaScript"
-  />
-  &nbsp;&nbsp;
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  alt="Java"
+/>
+&nbsp;&nbsp;
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    alt="TypeScript"
-  />
-</p>
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  alt="JavaScript"
+/>
+&nbsp;&nbsp;
+
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+  alt="TypeScript"
+/>
+
+</div>
 
 
 <h3>Web Development</h3>
 
-<p>
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    alt="React"
-  />
-  &nbsp;&nbsp;
+<div style="white-space: nowrap;">
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    alt="Tailwind CSS"
-  />
-  &nbsp;&nbsp;
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  alt="React"
+/>
+&nbsp;&nbsp;
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-    alt="Node.js"
-  />
-  &nbsp;&nbsp;
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+  alt="Tailwind CSS"
+/>
+&nbsp;&nbsp;
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-    alt="Express"
-  />
-</p>
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+  alt="Node.js"
+/>
+&nbsp;&nbsp;
+
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+  alt="Express"
+/>
+
+</div>
 
 
 <h3>Databases & Cloud</h3>
 
-<p>
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-    alt="PostgreSQL"
-  />
-  &nbsp;&nbsp;
+<div style="white-space: nowrap;">
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-    alt="MongoDB"
-  />
-  &nbsp;&nbsp;
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+  alt="PostgreSQL"
+/>
+&nbsp;&nbsp;
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="AWS"
-  />
-  &nbsp;&nbsp;
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+  alt="MongoDB"
+/>
+&nbsp;&nbsp;
 
-  <img
-    height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-    alt="Docker"
-  />
-</p>
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  alt="AWS"
+/>
+&nbsp;&nbsp;
+
+<img
+  height="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+  alt="Docker"
+/>
+
+</div>
 
 </td>
 
