@@ -8,22 +8,23 @@
   </i>
 </p>
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
 
-<!-- Profile Image -->
-<td align="center" valign="middle" width="35%">
-  <img
-    src="./profile.png"
-    width="280"
-    height="425"
-    alt="Surya Profile"
-    style="object-fit: cover;"
-  />
+<!-- ==================== PROFILE IMAGE ==================== -->
+<td width="35%" align="center" valign="top">
+
+<img
+  src="./profile.png"
+  width="100%"
+  alt="Surya Profile"
+/>
+
 </td>
 
-<!-- Skills -->
-<td valign="top" width="65%" style="padding: 20px;">
+
+<!-- ==================== SKILLS ==================== -->
+<td width="65%" valign="top" style="padding: 15px;">
 
 <h2>💻 Skills & Technologies</h2>
 
@@ -35,42 +36,38 @@
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    title="C++"
     alt="C++"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    title="Python"
     alt="Python"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    title="Java"
     alt="Java"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    title="JavaScript"
     alt="JavaScript"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    title="TypeScript"
     alt="TypeScript"
   />
 </p>
+
 
 <h3>Web Development</h3>
 
@@ -78,34 +75,31 @@
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    title="React"
     alt="React"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    title="Tailwind CSS"
     alt="Tailwind CSS"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-    title="Node.js"
     alt="Node.js"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-    title="Express"
     alt="Express"
   />
 </p>
+
 
 <h3>Databases & Cloud</h3>
 
@@ -113,31 +107,27 @@
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-    title="PostgreSQL"
     alt="PostgreSQL"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-    title="MongoDB"
     alt="MongoDB"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    title="AWS"
     alt="AWS"
   />
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img
     height="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-    title="Docker"
     alt="Docker"
   />
 </p>
@@ -146,3 +136,5 @@
 
 </tr>
 </table>
+
+<hr>
