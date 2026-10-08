@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>
-    *I'm a final-year B.Tech Software Engineering student at VIT Amaravati and a passionate Full-Stack Developer. I specialize in building scalable web applications, developing AI-powered and Agentic AI systems, and exploring cloud technologies and infrastructure. I enjoy solving problems with C++ and constantly learning, experimenting, and building impactful tech!*
+    I'm a final-year B.Tech Software Engineering student at VIT Amaravati and a passionate Full-Stack Developer. I specialize in building scalable web applications, developing AI-powered and Agentic AI systems, and exploring cloud technologies and infrastructure. I enjoy solving problems with C++ and constantly learning, experimenting, and building impactful tech!
   </i>
 </p>
 
