@@ -13,7 +13,7 @@
 <td width="35%" align="center" valign="top">
 
 <img
-  src="./profile.png"
+  src="./profile.jpeg"
   width="100%"
   alt="Surya Profile"
 />
