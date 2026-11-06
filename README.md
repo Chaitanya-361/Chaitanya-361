@@ -47,6 +47,31 @@
   />
 </p>
 
+<h3>Agentic AI</h3>
+
+<p>
+  <img
+    src="https://cdn.simpleicons.org/langchain/1C3C3C"
+    height="35"
+    alt="LangChain"
+  />
+  <img
+    src="https://cdn.simpleicons.org/langgraph/1C3C3C"
+    height="35"
+    alt="LangGraph"
+  />
+  <img
+    src="https://img.shields.io/badge/MCP-Model_Context_Protocol-blue"
+    height="35"
+    alt="MCP"
+  />
+  <img
+    src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-green"
+    height="35"
+    alt="RAG"
+  />
+</p>
+
 <h3>Databases & Cloud</h3>
 
 <p>
