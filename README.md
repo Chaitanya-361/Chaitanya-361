@@ -47,15 +47,6 @@
   />
 </p>
 
-<h3>Agentic AI</h3>
-
-<p>
-  <img src="https://cdn.simpleicons.org/langchain" height="35" alt="LangChain" />
-  <img src="https://cdn.simpleicons.org/langgraph" height="35" alt="LangGraph" />
-  <img src="YOUR_MCP_SVG_URL" height="35" alt="MCP" />
-  <img src="YOUR_RAG_SVG_URL" height="35" alt="RAG" />
-</p>
-
 <h3>Databases & Cloud</h3>
 
 <p>
